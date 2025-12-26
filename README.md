@@ -5,4 +5,4 @@ Embedded Systems Engineer | EEE @ NIT Andhra Pradesh
 
 📟 Tech Stack: STM32, ESP32, FreeRTOS, KiCad, Raspberry pi,.
 
-🌱 Currently learning: Advanced PCB Signal Integrity & DSP,embedded c and electronics.
+🌱 Currently learning: Advanced PCB design,DSP,embedded c and electronics.
